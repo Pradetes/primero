@@ -1,0 +1,10 @@
+body {
+    background-color: rgb(71, 142, 118);
+    /*background-image: url("https://photos.google.com/photo/AF1QipMLWUuT8p9vBvKKOBp0FA_la5xo6CubliFyGycb"); /* URL de la imagen */
+    background-repeat: no-repeat; /* Opcional: controla la repetición */
+    background-position: center top; /* Opcional: controla la posición */
+    background-size: cover; /* Opcional: controla el tamaño */
+    font-family: Georgia, 'Times New Roman', Times, serif, sans-serif;
+    margin: 0;
+    padding: 0;
+}
